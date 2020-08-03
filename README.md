@@ -9,5 +9,5 @@ You are supposed to:\
     replace "your_bot's_token_goes_here" string inside of the *botsettings.json* file by the token of your own bot in order to activate your bot;\
     replace "your_bot_name" string inside of the *start.bat* file by the name of your bot (or any name you prefer).
 
-# How to use
+# Instruction
 ...
