@@ -5,8 +5,8 @@ discord-bot is a simple Discord bot that can offer several features to your Disc
   Mute a mentioned user. (Currently in Debugging process)
 
 ## ATTENTION
-You are supposed to:
-    replace the "your_bot's_token_goes_here" string inside of the *botsettings.json* file by the token of your own bot in order to activate your bot;
+You are supposed to:\
+    replace the "your_bot's_token_goes_here" string inside of the *botsettings.json* file by the token of your own bot in order to activate your bot;\
     replace "your_bot_name" string inside of the *start.bat* file by the name of your bot (or any name you prefer).
 
 # How to use
