@@ -1,0 +1,2 @@
+nodemon sabishiibichon.js
+pause
