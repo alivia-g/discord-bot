@@ -1,2 +1,2 @@
-nodemon sabishiibichon.js
+nodemon your_bot_name.js
 pause
