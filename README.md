@@ -6,3 +6,5 @@ discord-bot is a simple Discord bot that can offer several features to your Disc
 
 ## Note
 You are supposed to replace the "Your_bot's_token_goes_here" string inside of the *botsettings.json* file by your own bot's token. 
+
+# How to use
