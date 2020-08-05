@@ -4,10 +4,10 @@ discord-bot is a simple chat bot in Discord that can offer several features to y
   Morning and night greetings when prompted *!oyasumi* and *!ohayo*.\
   Mute a mentioned user. (Currently in Debugging process)
 
-### ATTENTION
-You are supposed to:\
-    replace "your_bot's_token_goes_here" string inside of the *botsettings.json* file by the token of your own bot in order to activate your bot;\
-    replace "your_bot_name" string inside of the *start.bat* file by the username of your bot (or any name that you prefer).
+### NOTE
+You will need to:\
+    - replace "your_bot's_token_goes_here" string inside of the *botsettings.json* file by the token of your own bot in order to activate your bot;\
+    - replace "your_bot_name" string inside of the *start.bat* file by the username of your bot (or any name that you prefer).
 
 # Instruction
 ...
