@@ -39,12 +39,20 @@ bot.on("message", async message => {
     return;
   }
 
-  if (command === `${prefix}oyasumi`) {
-    message.channel.send("Oyasumi onee-chan!");
+  if (command.toLowerCase().includes(`oyasu`)) {
+    message.channel.send("おやすみなさい❣\nご主人さま ♡(.❛ ᴗ ❛.)♡");
   }
 
-  if (command === `${prefix}ohayo`) {
-    message.channel.send("Ohayo onee-chan!");
+  if (command.toLowerCase().includes(`ohayo`)) {
+    message.channel.send("お早う❣\nご主人さま♡(.❛ ᴗ ❛.)♡");
+  }
+
+  if (command.toLowerCase().indexOf(`hey`) > -1 || command.toLowerCase().indexOf(`hi`) > -1) {
+    message.channel.send("お帰り！\nご主人さま♡(.❛ ᴗ ❛.)♡");
+  }
+
+  if (command.toLowerCase().includes(`kawai`)) {
+    message.channel.send(`(≧◡≦)\nご主人さまが大好きだよう(.❛ ᴗ ❛.)♡♡`);
   }
 
   // Muting a mentioned user
