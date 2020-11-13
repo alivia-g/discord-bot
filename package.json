@@ -7,7 +7,11 @@
     "watch": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "L",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ava-g/discord-bot.git"
+  },
+  "author": "Ava Guo",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.2.0"
